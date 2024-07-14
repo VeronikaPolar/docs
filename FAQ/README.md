@@ -13,7 +13,7 @@ All other cold and hot wallets are single-sig and rely on one set of seed phrase
 - Available: iOS and Android
 - Planned: Windows, Linux
 
-### What versions of iOS/IPadOS/Mac are supported?
+### What versions of iOS/iPadOS/Mac are supported?
 
 **iOS:** Minimum iOS 17 with iPhone XS (2018)
 
@@ -84,7 +84,7 @@ _Scenario 2 :_ WITHOUT mobile remote data wipe feature setup done and with at le
 2. Immediately move your funds away from this existing vault.
 
 {% hint style="warning" %}
-**You would still loss access to your funds if you do not have at least 67% of vault shares backup done properly.**
+**You would still lose access to your funds if you do not have at least 67% of vault shares backup done properly.**
 {% endhint %}
 
 ### What is the key utility of $VULT token to the ordinary users?
